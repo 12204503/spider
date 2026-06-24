@@ -3,3 +3,4 @@ postgres:16
 mysql:5.7
 mysql:8.0.39
 redis:7-alpine
+redis:7-alpine
